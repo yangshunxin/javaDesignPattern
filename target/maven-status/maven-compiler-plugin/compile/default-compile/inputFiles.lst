@@ -31,8 +31,10 @@ D:\javaLearn\javaDesignPattern\src\main\java\org\example\observer\java\Bear.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\decorator\ConcreteComponent.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\builder\inner\Product.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\command\cook\Waiter.java
+D:\javaLearn\javaDesignPattern\src\main\java\org\example\memento\simple\Memento.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\flyweight\Test.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\prototype\rewriteClone\Video.java
+D:\javaLearn\javaDesignPattern\src\main\java\org\example\memento\simple\Test.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\visitor\simple\Test.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\command\cook\Test.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\builder\inner\Test.java
@@ -49,6 +51,7 @@ D:\javaLearn\javaDesignPattern\src\main\java\org\example\command\cook\ChangFen.j
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\composite\safe\Composite.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\proxy\staticp\Test.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\command\simple\Receiver.java
+D:\javaLearn\javaDesignPattern\src\main\java\org\example\memento\girl\You.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\chainOfResponsibility\applicationExample\Test.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\factory\method\WuLing.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\state\simple\ConcreteStateB.java
@@ -61,6 +64,7 @@ D:\javaLearn\javaDesignPattern\src\main\java\org\example\factory\method\WuLingFa
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\observer\rate\Rate.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\observer\ring\BellEventListener.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\command\cook\HunTunChef.java
+D:\javaLearn\javaDesignPattern\src\main\java\org\example\memento\girl\GirlStack.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\factory\simple\Tesla.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\flyweight\gobang\WzqGame.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\factory\method\Tesla.java
@@ -70,6 +74,7 @@ D:\javaLearn\javaDesignPattern\src\main\java\org\example\Strategy\ConcreteStrate
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\proxy\dynamictemp\Test.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\mediator\estate\EstateMedium.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\adapter\Adapter.java
+D:\javaLearn\javaDesignPattern\src\main\java\org\example\memento\girl\DatingGameWin.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\observer\ring\TeachEventListener.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\observer\java\OilFutures.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\prototype\rewriteClone\Client.java
@@ -77,7 +82,9 @@ D:\javaLearn\javaDesignPattern\src\main\java\org\example\Strategy\Strategy.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\flyweight\gobang\ChessPieces.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\Strategy\Test.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\command\composite\Test.java
+D:\javaLearn\javaDesignPattern\src\main\java\org\example\memento\girl\Test.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\proxy\dynamictemp\Target.java
+D:\javaLearn\javaDesignPattern\src\main\java\org\example\memento\simple\Originator.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\mediator\simple\ConcreteMediator.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\mediator\simple\Test.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\visitor\simple\ConcreteVisitorA.java
@@ -150,6 +157,7 @@ D:\javaLearn\javaDesignPattern\src\main\java\org\example\prototype\researchClone
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\command\cook\HeFen.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\command\composite\CompositeInvoker.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\composite\transparency\Component.java
+D:\javaLearn\javaDesignPattern\src\main\java\org\example\memento\girl\Girl.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\Iterator\Aggregate.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\factory\simple\CarFactory.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\bridge\Apple.java
@@ -192,3 +200,4 @@ D:\javaLearn\javaDesignPattern\src\main\java\org\example\chainOfResponsibility\a
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\factory\method\CarFactory.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\abstractf\IRouterProduct.java
 D:\javaLearn\javaDesignPattern\src\main\java\org\example\singleton\EnumSingleton.java
+D:\javaLearn\javaDesignPattern\src\main\java\org\example\memento\simple\Caretaker.java
