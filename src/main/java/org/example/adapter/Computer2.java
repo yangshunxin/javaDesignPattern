@@ -17,7 +17,7 @@ public class Computer2 {
 
     public static void main(String[] args) {
         // 电脑， 适配器， 网线
-        Computer2 computer = new Computer2(); //电脑
+        Computer2 computer = new Computer2(); // 电脑
         Adaptee adaptee = new Adaptee(); // 网线
         // 把网线插在转接器上，这里就可以用不同的转接器和不同的网线，只要实现了对应的接口
         Adapter2 adapter = new Adapter2(adaptee); // 转接器
